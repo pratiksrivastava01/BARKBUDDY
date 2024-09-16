@@ -3,7 +3,7 @@ import Hero from "@/components/Testing/Hero";
 export default function Home() {
   return (
     <>
-      <Hero />
+      <Hero />.
     </>
     // <>
     //   <div className="mt-[4.8rem]">
